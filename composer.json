@@ -2,6 +2,7 @@
   "name": "solophp/formatter",
   "type": "library",
   "description": "Transforming data into a polished format",
+  "abandoned": true,
   "keywords": ["php","formatter","beautify"],
   "license": "MIT",
   "authors": [
